@@ -1,3 +1,5 @@
+//Rock paper scissors game - need to add UI and Front end
+
 const getUserChoice = (userInput) => {
   userInput = userInput.toLowerCase();
   if (
